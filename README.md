@@ -2,7 +2,7 @@
 
 ## About
 
-These notes and accompanying code were created as a presentation aid for the paper [Recurrent Neural Network Grammars](https://arxiv.org/abs/1602.07776), Dyer et al. 2016, at the [Berlin Machine Learning seminar](http:/ building-babylon.net/berlin-machine-learning-learning-group/). 
+These notes and accompanying code were created as a presentation aid for the paper [Recurrent Neural Network Grammars](https://arxiv.org/abs/1602.07776), Dyer et al. 2016, at the [Berlin Machine Learning seminar](http://building-babylon.net/berlin-machine-learning-learning-group/). 
 
 The code in `RNNG.py` is a reimplementation of Dyer et al. using Python bindings to [DyNet](https://dynet.readthedocs.io/en/latest/), and borrows heavily from two sources:
 
